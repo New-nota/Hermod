@@ -36,3 +36,6 @@ frontend/dev-dist/
 .impeccable/questions/
 .impeccable/hook.cache.json
 .impeccable/decision-round-*.json
+
+# внутренние ТЗ — только локально
+TZ-*.md
